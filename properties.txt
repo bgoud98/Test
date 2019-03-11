@@ -1,1 +1,1 @@
-value= "abc","asd"
+value= abc_1.1,efg_1.1,hij_1.1
